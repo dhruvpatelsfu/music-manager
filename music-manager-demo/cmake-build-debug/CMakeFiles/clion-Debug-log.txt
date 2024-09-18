@@ -1,0 +1,10 @@
+"C:\Users\dhruv\CLion 2024.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/dhruv/CLion 2024.1.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\LOCATION\CMPT 473\lec\music-manager\music-manager-demo" -B "C:\LOCATION\CMPT 473\lec\music-manager\music-manager-demo\cmake-build-debug"
+CMake Error at CMakeLists.txt:26 (add_subdirectory):
+  The source directory
+
+    C:/LOCATION/CMPT 473/lec/music-manager/music-manager-demo/src
+
+  does not contain a CMakeLists.txt file.
+
+
+-- Configuring incomplete, errors occurred!

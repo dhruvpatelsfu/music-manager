@@ -1,0 +1,10 @@
+# ninja log v6
+3	1164	7482197476365694	CMakeFiles/music-manager.dir/src/MusicManager.cpp.obj	6eb0251516c452aa
+1169	1564	7482197488030893	libmusic-manager.a	eb03e6bb1711a981
+68	515	7482197922373187	lib/libgtest_main.a	3049118ebeff2a82
+180	2218	7482197496672245	test/gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	e913991eee8a823e
+122	4186	7482197496085134	test/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	c75c87db18299374
+96	9435	7482197495824156	test/gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f5922997c7be38a9
+47	4470	7482197688206885	lib/libgtest.a	d6e77f9fdb220ca
+46	972	7482197922165950	lib/libgmock.a	342e116a1a7a6b16
+31	2473	7482197922009661	test/CMakeFiles/runAllTests.dir/MusicManagerTests.cpp.obj	42272a029a31d3f0
